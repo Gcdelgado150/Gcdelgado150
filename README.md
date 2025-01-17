@@ -22,33 +22,11 @@ Here are some ideas to get you started:
 
 
 # 📫 Contact me
-<style>
-  #contact .social-links {
-    display: flex; /* Ensures icons are aligned in a row */
-    gap: 35px; /* Adds spacing between icons */
-  }
 
-  #contact .social-links a {
-    text-decoration: none; /* Optional: Removes underline */
-  }
+- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gcdelgado15@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-delgado)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5531991993745)
 
-  #contact .social-links a i {
-    font-size: 2rem; /* Adjust size of icons */
-  }
-</style>
-<section id="contact">
-    <div class="social-links">
-        <a href="mailto:gcdelgado15@gmail.com" aria-label="Email">
-            <i class="fab fa-google"></i>
-        </a>
-        <a href="https://www.linkedin.com/in/guilherme-delgado" target="_blank" aria-label="LinkedIn">
-            <i class="fab fa-linkedin"></i>
-        </a>
-        <a href="https://wa.me/5531991993745" target="_blank" aria-label="WhatsApp">
-            <i class="fab fa-whatsapp"></i>
-        </a>
-    </div>
-</section>
 
 # Languages and Tools
 | **Programming Languages** | **Data Technologies**           | **Machine Learning**            | **Data Visualization**       | **DevOps Tools**          | **Agile Methodologies** | **Web Technologies** | **Office Applications** |
